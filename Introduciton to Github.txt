@@ -1,0 +1,23 @@
+Introduciton to Github
+---------------------
+GitHub is the most commonly understood and most common open-source git repository host.Almost everybody have heard of github.
+Github can be free,you can signup an accout and you can manage source code through github.
+
+www.github.com
+
+username
+email
+password -->email verification needed.
+
+github.com/join/plan -->
+
+For free you wil not get a private repository. It has to be publicly available.
+
+There are four plans.
+
+github.com/pricing  -->organization plans
+
+www.entrerprise.github.com
+-------------------------------
+
+github/enterprise is basically an image entirely created by github you can download and can host in vmware server,vmware esxi ,server based virtulization s/w you can host  in hyperviser (which is windows equivalent of vmware esxi) This allows you to have complete control,not only of your source code because its hosted internally,you are incharge of all the management that goes along with it.But it also makes in easy to plug-in the repository,service desk,Jira, confluence.you can integrate github to backend servers without having to reach out the internet.
